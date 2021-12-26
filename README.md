@@ -1,6 +1,6 @@
 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Other        1 hr            █████████████████████████   99.75 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
