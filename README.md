@@ -6,3 +6,5 @@ Other        3 hrs           █████████████████
 ```
 
 <!--END_SECTION:waka-->
+
+<img src="https://gpvc.arturio.dev/iqbalfasri" alt="Profile views"/>
