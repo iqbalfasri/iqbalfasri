@@ -4,11 +4,11 @@ A mediocre Frontend Developer.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   12 hrs 24 mins  ██████████████████████▓░░   90.01 %
-Bash         59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-JSON         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-GraphQL      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   7 hrs 58 mins   ███████████████████▒░░░░░   77.83 %
+Bash         1 hr 18 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
+JSON         51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+GraphQL      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
