@@ -1,4 +1,3 @@
-A mediocre Frontend Developer.
 
 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
