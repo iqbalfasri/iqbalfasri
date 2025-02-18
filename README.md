@@ -3,7 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+XML          12 mins         ████████████████████████░   96.62 %
+Python       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
